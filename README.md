@@ -2,7 +2,6 @@
   <img src="assets/logo.png" height="300" width="300">
   <h1 align="center">Hello 👋</h1>
 </div>
----
 
 # What is the Club\*Nix ?
 Club\*Nix is a non-profit organization created in 2001 and located at ESIEE Paris. <br>
