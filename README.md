@@ -1,6 +1,8 @@
-<span align="center">![logo](https://cdn.discordapp.com/attachments/737049189208555591/1086220512201551932/logo.png)</span>
-
-<h1 align="center">Hello 👋</h1>
+<div align="center">
+  <img src="assets/logo.png" height="400" width="400">
+  <h1 align="center">Hello 👋</h1>
+</div>
+  
 
 
 <!--
